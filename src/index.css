@@ -1,0 +1,15 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    background-color: #353536;
+    font-size: 20px;
+}
+a {
+    color: crimson;
+    text-decoration: none;
+}
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
